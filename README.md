@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nazarini7
 - 👀 I’m interested in ML engineer
-- 🌱 I’m currently learning C++, Math(calculus)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (+380991425264 Whatsapp)
 
 <!---
